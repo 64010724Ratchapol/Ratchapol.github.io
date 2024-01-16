@@ -180,6 +180,7 @@ img{
     width: 200px;
     height: 200px;
     margin: 50px;
+    transition: 2s;
 }
 .img-profile:hover{
     border-radius: 100px;
