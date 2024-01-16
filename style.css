@@ -242,7 +242,7 @@ img{
     font-size: 5rem;
 }
 .h1-profile::before{
-    content: "Ratchapol Rujiwatch";
+    content: "Ratchapol.Rujiwatch";
     position: absolute;
     width: 0%;
     height: 100%;
